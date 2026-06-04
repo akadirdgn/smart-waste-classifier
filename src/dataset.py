@@ -7,7 +7,7 @@ def get_dataloaders(data_dir, batch_size=32, target_size=(224, 224)):
     Veri setini okuyup train ve val (veya test) DataLoader nesnelerini döndürür.
     `data_dir` dizini altında train ve val (veya test) klasörlerinin olması beklenir.
     """
-    # ResNet18 gibi pre-trained modeller genelde ImageNet ortalamalarıyla normalize edilmeyi bekler
+    # ResNet18
     data_transforms = {
         'train': transforms.Compose([
             transforms.RandomResizedCrop(target_size),
