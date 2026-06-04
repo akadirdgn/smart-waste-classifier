@@ -188,4 +188,4 @@ TrashNet/
 ## 👤 Geliştirici
 
 **Abdulkadir Doğan**  
-GitHub: [@abdulkadrdoan](https://github.com/abdulkadrdoan)
+GitHub: [@akadirdgn](https://github.com/akadirdgn)
